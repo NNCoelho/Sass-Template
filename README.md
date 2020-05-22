@@ -1,2 +1,3 @@
 # Sass-Template
-Sass Example Code
+
+SASS - SCSS/CSS Script Code
